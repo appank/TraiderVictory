@@ -339,7 +339,7 @@ export default function App() {
       <header className="border-b border-slate-200 bg-white/80 backdrop-blur">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
           <span className="text-sm font-semibold uppercase tracking-[0.2em] text-slate-500">
-            TV
+            victory
           </span>
           <nav className="flex gap-4 text-sm font-medium">
             <Link className="text-slate-700 hover:text-slate-900" to="/">
